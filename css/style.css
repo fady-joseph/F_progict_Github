@@ -549,7 +549,7 @@ body{
     height: 80%;
 }
 .sec6_middle{
-    background: url(../img/6666.jpg) no-repeat center;
+    background: url(../img/sec6bg.jpeg) no-repeat center;
     background-size: cover;
     background-attachment: fixed;
 
@@ -560,7 +560,7 @@ body{
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0,0,0,0.7);
+    background-color: rgba(0,0,0,0.8);
 }
 .sec6_content{
     width: 100%;
